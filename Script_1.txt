@@ -1,0 +1,3 @@
+inicio
+<obtener datos>
+<fin>

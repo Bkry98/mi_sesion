@@ -1,0 +1,4 @@
+inicio
+<obtener datos>
+<obtener productos mas vendidos>
+<fin>
